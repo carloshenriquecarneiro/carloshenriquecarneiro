@@ -8,7 +8,7 @@ Meu nome é Carlos Henrique, estou graduando em Sistemas para Internet, e sou De
 
 🚀 Começando a carreira no Desenvolvimento Web
 
-👨‍💻 Estudo: JavaScript e VueJS 
+👨‍💻 Estudo: JavaScript e ReactJS
 
 💪 Conhecimentos: HTML, CSS, Bootstrap 
 
