@@ -1,12 +1,10 @@
 # Olá! 😃
-Meu nome é Carlos Henrique, estou graduando em Sistemas para Internet, e sou Desenvolvedor Front-end iniciante em busca do primeiro emprego ou estágio para solidifcar meus conhecimentos na área. 💻
+Meu nome é Carlos Henrique, estou graduando em Sistemas para Internet, e sou Desenvolvedor Front-end Jr, comecei no desenvolvimento web em fevereiro de 2020 e não parei desde então. 💻
 
 #### 💪 "Eu sempre consigo, só não sei quanto tempo vou levar"  🧠
 
 
-📌 Moro em João Pessoa
-
-🚀 Começando a carreira no Desenvolvimento Web
+📌 Moro em João Pessoa - PB
 
 ## 🚀 Minhas Skills
 
@@ -14,8 +12,10 @@ Meu nome é Carlos Henrique, estou graduando em Sistemas para Internet, e sou De
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+
+
 
 
 
